@@ -1,0 +1,3 @@
+C:/Users/bryan/CLionProjects/Invertir/cmake-build-debug/CMakeFiles/Invertir.dir
+C:/Users/bryan/CLionProjects/Invertir/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bryan/CLionProjects/Invertir/cmake-build-debug/CMakeFiles/rebuild_cache.dir
